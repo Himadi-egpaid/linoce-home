@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "We are Connecting the Disconnected business",
+        "paragraph": "We are building a revolutionized travel solution, that connects all the disconnected high potential travel businesses"
+
+    },
+    "About": {
+        "paragraph": "We are building a revolutionized travel solution, which connects all the disconnected high potential travel businesses. Travel Mergers provides a platform to promote your products/services to all the potential customers around to globe. This platform also helps you to source product/services from other suppliers to meet your customer need. So, Travel Mergers platform not only help you to connect new customers everyday but also empower you with high number of suppliers all over the world. This is a collaborative platform to do business with reduced operational cost.",
+        "Why": [
+            "Connect customers online, with no time",
+            "Offer products/services at real time",
+            "On board new customers around the globe",
+            "Perform business with low operational cost",
+            "Always get updated with travel updates/news",
+            "Pre-Integrated with popular payment gateways"
+        ],
+        "Why2": [
+            "Real time work with multiple suppliers",
+            "Add emerging service line to your business",
+            "Get real-time alerts on customer activity",
+            "Promote your products to marketplace",
+            "Get real time alerts of flight status",
+            "Get integrated with popular travel APIs"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Web Development",
+            "text": "We are experts in building and managing your website. We optimize your site, so that it can respond to your customer fast."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "e-Commerce Application",
+            "text": "e-Commerce portal is special kind of service line and needs different approach in developing them. We have some successful implementation of e-Commerce portal."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Cloudification",
+            "text": "We can transform your existing in-house/shared hosted application into cloud enable services. That way you can scale your application based on customer load. This way you can optimize your IT spending."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "API Integration",
+            "text": "We already integrated multiple APIs into our platform and keep working in integrating more into it. If you have any special kind of travel APIs, then can suggest us and we can integrate them for your use."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "On-line Flight Booking",
+            "text": "We already integrated with TBO, which allow user to book flight real-time."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Reporting/Analytics",
+            "text": "We prepared some basic analytics into our platform. We are open to hear from our user to add more for their need. Idea is to provide all the insights about your business into your finger tips."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Promote Your Business",
+            "text": "Our platform helps to promote your travel business online. Our platform helps to add wings to your product/serviecs, so that it can be heard by customers around the world"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Broadcast Offerings",
+            "text": "Even you some excellent products, until you have a right platform to promote, that of no use. Our platform is make exactly that. We help you to listen to your customer, so that you can position your product/service in a better way"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Collaborate as Team",
+            "text": "Our platform helps to collaborate with others. Our platform enrich you to complement with others rather compete with them. You will be getting new source of revenue in our platform, whcih will enhance your business"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Reduced Cost",
+            "text": "Every business tries to reduce cost. That can only be done if you reach more customers, increase revinue, add new service lines etc. in no time. Our platform also helps you to manage everything online, which bring down your operational cost."
+        }
+    ]
+}
