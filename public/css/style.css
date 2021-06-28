@@ -137,6 +137,7 @@ hr {
 	margin-top: 10px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
+	color: #333;
 }
 .section-title h2::after {
 	position: absolute;
@@ -194,7 +195,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.2);
+	/*background: rgba(0,0,0,0.2);*/
+	background: rgb(17 20 125 / 77%);
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
@@ -225,7 +227,8 @@ header .intro-text {
 /* Features Section */
 #features {
 	padding: 100px 0;
-	background: #f6f6f6;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    color: #fff;
 }
 #features i.fa {
 	font-size: 38px;
@@ -238,6 +241,10 @@ header .intro-text {
 	border-radius: 50%;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+
+#features h2, h3 {
+	color: #fff;
 }
 /* About Section */
 #about {
