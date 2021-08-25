@@ -76,10 +76,12 @@ hr {
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-size: 24px;
-	font-weight: 700;
-	color: #333;
-	text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(19, 30, 181);
+    text-transform: uppercase;
+    padding: 15px 15px 0px;
+    height: inherit;	
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -201,8 +203,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
-	font-weight: 700;
+	/* font-size: 82px;
+	font-weight: 700; */
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
@@ -241,6 +243,16 @@ header .intro-text {
 	border-radius: 50%;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+
+@media screen and (min-width: 985px) {
+	.intro h1 {
+		font-size: 82px;
+		font-weight: 700;
+	}
+	#features i.fa {
+		font-size: 38px;
+	}
 }
 
 #features h2, h3 {
@@ -580,8 +592,56 @@ color: #777;
 	border-bottom: 2px solid #608dfd;
 }
 
-@media (max-width: 768px) {
-#about img {
-	margin: 50px 0;
-}
+@media screen and (max-width: 768px) {
+	#about img {
+		margin: 50px 0;
+	}
+	.intro h1 {
+		font-family: 'Raleway', sans-serif;
+		color: #fff;
+		font-size: 25px;
+		font-weight: 500;
+		text-transform: uppercase;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.intro h1 span {
+		font-weight: 800;
+		color: #5ca9fb;
+	}
+	.intro p {
+		color: #fff;
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 30px;
+		margin: 0 auto;
+		margin-bottom: 60px;
+	}	
+	#features i.fa {
+		font-size: 30px;
+		margin-bottom: 20px;
+		transition: all 0.5s;
+		color: #fff;
+		width: 100px;
+		height: 100px;
+		padding: 30px 0;
+		border-radius: 50%;
+		background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+		box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+	}	
+	#menu a.navbar-brand {
+		font-size: 18px;
+		font-weight: 600;
+		padding: 15px 15px 0px 0px;
+	}
+	.navbar-brand {
+		float: none;
+	}
+	.navbar-toggle {
+		margin-top: 0px;
+	}
+	.intro {
+		background: url(../img/intro-bg.jpg) top left no-repeat;
+		background-size: cover;
+	}
 }

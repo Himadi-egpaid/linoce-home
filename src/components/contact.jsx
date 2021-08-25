@@ -150,9 +150,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Travel Merger. Design by{' '}
-            <a href='https://www.travelmergers.com' rel='nofollow'>
-              Travel Mergers
+            &copy; 2021 Linoce Technology. Design by{' '}
+            <a href='https://www.linocetech.com' rel='nofollow'>
+              Linoce Technology
             </a>
           </p>
         </div>
