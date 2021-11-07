@@ -15,7 +15,7 @@ export const Testimonials = (props) => {
                       <img src={d.img} alt='' />{' '}
                     </div>
                     <div className='testimonial-content'>
-                      <p>"{d.text}"</p>
+                      <p><i className="fa fa-quote-left" aria-hidden="true"></i>{d.text}<i className="fa fa-quote-right" aria-hidden="true"></i></p>
                       <div className='testimonial-meta'> - {d.name} </div>
                     </div>
                   </div>

@@ -1,3 +1,5 @@
+import companyLogo from '../logo.png';
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,8 +17,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>Linoce Technology</a>{' '}
-          <div style={{fontSize: "1.1rem", fontStyle: "italic"}}>Connecting the disconnected businesses</div>
+          <div>
+            <a className='navbar-brand page-scroll' href='#page-top'><img src={companyLogo} className="logo" alt="Linoce Technology"/></a>{' '}
+            <div style={{fontSize: "1.1rem", fontStyle: "italic"}}>Connecting the emerging businesses</div>
+          </div>
         </div>
 
         <div

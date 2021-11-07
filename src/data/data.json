@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are Connecting the Disconnected business",
-        "paragraph": "We are building a revolutionized travel solution, that connects all the disconnected high potential travel businesses"
+        "title": "We are Connecting the emerging & promising businesses",
+        "paragraph": "We are building a revolutionized travel solution, that connects all the emerging and high potential travel businesses"
 
     },
     "About": {
-        "paragraph": "We are building a revolutionized travel solution, which connects all the disconnected high potential travel businesses. Linoce provides a platform to promote your products/services to all the potential customers around to globe. This platform also helps you to source product/services from other suppliers to meet your customer need. So, Linoce platform not only help you to connect new customers everyday but also empower you with high number of suppliers all over the world. This is a collaborative platform to do business with reduced operational cost.",
+        "paragraph": "We are building a revolutionized travel solution, which connects all the emerging high potential travel businesses. Linoce provides a platform to promote your products/services to all the potential customers around to globe. This platform also helps you to source product/services from other suppliers to meet your customer need. So, Linoce platform not only help you to connect new customers everyday but also empower you with high number of suppliers all over the world. This is a collaborative platform to do business with reduced operational cost.",
         "Why": [
             "Connect customers online, with no time",
             "Offer products/services at real time",
@@ -55,61 +55,47 @@
             "text": "We prepared some basic analytics into our platform. We are open to hear from our user to add more for their need. Idea is to provide all the insights about your business into your finger tips."
         }
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "Not only Linoce team technically very sound but also, they are very helpful. They are always one step ahead in supporting us, when we need them the most. It's because of them we are happily able to run our online business smoothly.",
+            "name": "Stefen Ben"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "Linoce team is very professional and always provided delivery on-time. They internally follow iterative approach in delivery. That means, they keep developing and deploying feature or fixing bugs in a continuous flow basis. So, we keep getting new features for our customers. Very well done, Linoce team.",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "We were looking to integrate some third-party APIs for our product. They not only did that for us, but also guided us very well, so that we can be future ready in integrating such APIs. Our customers are very delighted with these integrations. Keep up the good work Linoce team 😊.",
+            "name": "Devid"
         }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Sumit Agarwal",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Himadri Majumdar",
+            "job": "Mentor"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Is it You!",
+            "job": "Sales & Marketing Manager"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Is it You!",
+            "job": "Program Manager"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "Old Hasimara, Kalchini Road, Dist - Alipuduar, Pin - 735215, West Bengal, India ",
+        "phone": "+91 98004 12356",
+        "email": "info@linocetech.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
