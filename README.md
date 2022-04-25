@@ -1,7 +1,7 @@
-# Linoce Landin Page
+# Sample POC project to test MOBX
 
 ## Description
-This is a sample SPA website for Linoce. Linoce is a IT service company mainly to serve Travel Industry
+Sample web project to test React MOBX statement management
 
 ## Features
 ### 1. Build with
