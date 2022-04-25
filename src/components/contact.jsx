@@ -1,11 +1,15 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import privacyPdf from '../data/policy.pdf'
+import termsPdf from '../data/terms.pdf'
 
 const initialState = {
   name: '',
   email: '',
   message: '',
 }
+
+const url = '';
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState)
 
@@ -148,13 +152,25 @@ export const Contact = (props) => {
         </div>
       </div>
       <div id='footer'>
-        <div className='container text-center'>
-          <p>
-            &copy; 2021 Linoce Technology. Design by{' '}
-            <a href='https://www.linocetech.com' rel='nofollow'>
-              Linoce Technology
-            </a>
-          </p>
+        <div className='container'>
+          <div className='col-md-6'>
+            <p>
+              &copy; 2021 Linoce Technology. Design by{' '}
+              <a href='https://www.linocetech.com' rel='nofollow'>
+                Linoce Technology
+              </a>
+            </p>
+          </div>
+          <div className="col-md-6 text-right">
+            <div className="footer-menu">
+              <ul>
+                <li><a href='/'>Home</a></li>
+                <li><a href={termsPdf} target="blank">Terms</a></li>
+                <li><a href={privacyPdf} target="blank">Privacy</a></li>
+                <li><a href={url}>Policy</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
